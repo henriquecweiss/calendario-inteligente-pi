@@ -1,7 +1,7 @@
 
-# 📋 ToDo List App
+# 📋 Calendário Inteligente
 
-Uma aplicação de ToDo List simples e estilosa construída com Vue.js, Node.js, Express.js e MongoDB, utilizando Tailwind CSS para estilização.
+Uma aplicação de Calendário Inteligente (ToDo) simples e estilosa construída com Vue.js, Node.js, Express.js e MongoDB, utilizando Tailwind CSS para estilização.
 
 ## ✨ Funcionalidades
 
